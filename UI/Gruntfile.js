@@ -15,7 +15,7 @@ module.exports = function (grunt) {
    * setup paths
    */
   var path_vars = {
-    theme_path: '../wp-content/themes/pgj',
+    theme_path: '../wp-content/themes/cmmwordpressboiler',
     foundation_path: '../wp-content/themes/zurb_foundation',
     compile_path: '../UI',
     bower_path: '<%= path_vars.compile_path %>/bower_components',
